@@ -1,0 +1,13 @@
+.photo img {
+  width:80%;
+  margin-bottom:20px;
+  margin-top:0;
+}
+.photo p {
+  margin:0;
+}
+@media only screen and (min-width:600px) {
+  .photo img {
+  width:400px;
+  }
+}
